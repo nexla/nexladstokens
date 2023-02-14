@@ -1321,7 +1321,7 @@
   "Typography": {
     "h1": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.light}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.11}",
@@ -1335,7 +1335,7 @@
     },
     "h2": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.light}",
         "lineHeight": "{lineHeights.1}",
         "fontSize": "{fontSize.10}",
@@ -1349,7 +1349,7 @@
     },
     "h3": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.9}",
@@ -1363,7 +1363,7 @@
     },
     "h4": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.2}",
         "fontSize": "{fontSize.8}",
@@ -1377,7 +1377,7 @@
     },
     "h5": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.7}",
@@ -1391,7 +1391,7 @@
     },
     "h6": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.medium}",
         "lineHeight": "{lineHeights.4}",
         "fontSize": "{fontSize.6}",
@@ -1405,7 +1405,7 @@
     },
     "body1": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.5}",
         "fontSize": "{fontSize.5}",
@@ -1419,7 +1419,7 @@
     },
     "body2": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.6}",
         "fontSize": "{fontSize.3}",
@@ -1433,7 +1433,7 @@
     },
     "subtitle1": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.7}",
         "fontSize": "{fontSize.5}",
@@ -1447,7 +1447,7 @@
     },
     "subtitle2": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.medium}",
         "lineHeight": "{lineHeights.8}",
         "fontSize": "{fontSize.3}",
@@ -1461,7 +1461,7 @@
     },
     "overline": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.9}",
         "fontSize": "{fontSize.1}",
@@ -1475,7 +1475,7 @@
     },
     "caption": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{fontFamilies.rubik}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.10}",
         "fontSize": "{fontSize.1}",
