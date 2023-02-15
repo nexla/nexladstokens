@@ -1,13 +1,11 @@
 [
   {
-    "id": "fd100086c30ea4ea9f51873dc4d85d5f9d919669",
+    "id": "99070378db264da68f8fd35b42e21af97effbaaf",
     "name": "Nexla",
     "selectedTokenSets": {
       "colors": "enabled",
       "light/base": "enabled",
-      "light/components": "enabled",
-      "dark/base": "enabled",
-      "dark/components": "enabled"
+      "light/components": "enabled"
     },
     "$figmaStyleReferences": {
       "typography.h1": "S:03e0832df294f59eae1b9fef595675ebb395f40e,",
