@@ -2023,5 +2023,30 @@
       "value": "0px",
       "type": "dimension"
     }
+  },
+  "nexla": {
+    "primary": {
+      "100": {
+        "value": "#D6EAFF",
+        "type": "color"
+      },
+      "500": {
+        "value": "#357BFF",
+        "type": "color",
+        "description": "This is the blue in the original Nexla logo."
+      },
+      "900": {
+        "value": "#0A217A",
+        "type": "color",
+        "description": "This is the dark color in the desktop main nav."
+      }
+    },
+    "secondary": {
+      "500": {
+        "value": "#FF7436",
+        "type": "color",
+        "description": "This is the orange color in the original Nexla logo."
+      }
+    }
   }
 }
